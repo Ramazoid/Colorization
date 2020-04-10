@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3295214410
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: corners.mesh2
+      Dependencies: {}
+    Info_1:
+      Name: rounded.mesh1
+      Dependencies: {}
+    Info_2:
+      Name: mixed.mesh3
+      Dependencies: {}
